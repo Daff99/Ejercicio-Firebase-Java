@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EjercicioFirebase</string>
+    <string name="cuenta">¿Ya tienes una cuenta? Inicia sesión aquí:</string>
+    <string name="emailRegistro">Ingresa un email</string>
+    <string name="contraseñaRegistro">Ingresa una contraseña</string>
+    <string name="contraseña2">Repite la contraseña</string>
+    <string name="btnRegister">Registrar Usuario</string>
+    <string name="btnInit">Iniciar Sesión</string>
+    <string name="emailIniciarSesion">Ingresa el email</string>
+    <string name="pwIniciarSesion">Ingresa la contraseña</string>
+    <string name="btnIniciar">Iniciar Sesión</string>
+    <string name="textView">Si has llegado hasta aqui es que has iniciado sesión</string>
+    <string name="cerrarSesion">Cerrar Sesión</string>
+    <string name="google">¿Tienes cuenta de Google? Inicia sesión aquí:</string>
+</resources>
